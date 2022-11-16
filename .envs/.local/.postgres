@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=dex_arbitrage_scanner
+POSTGRES_USER=wxuVpbSdhYDeRbhYJRGFuKFRJvNswsDH
+POSTGRES_PASSWORD=BtrmWNEDnlUZpUlN1IKQ6EJLIzbHhk5mK2iOEOesTDIwKUCpu3sVXc0MNU74hRx7
